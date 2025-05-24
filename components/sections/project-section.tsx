@@ -5,19 +5,19 @@ import { ArrowUpRight } from "lucide-react"
 export const ProjectSection = () => {
   const projects = [
     {
-      title: "KosMate App",
+      title: "Daily Journal",
       description: "A lifestyle app for students living in kos, helping with budget, recipes, and community tips.",
-      link: "https://github.com/nahirae/kosmate",
+      link: "https://github.com/nahirae/dailyjournal_pbw",
     },
     {
       title: "Heart Disease Detector",
       description: "A web app using ML to predict heart disease risk, designed for non-tech-savvy users.",
-      link: "https://github.com/nahirae/heart-detector",
+      link: "https://github.com/nahirae/datmin-final-projek",
     },
     {
       title: "Online Health Consult System",
       description: "A simple registration and consultation app for clinics, built with Node.js and MySQL.",
-      link: "https://github.com/nahirae/health-consult",
+      link: "https://github.com/nahirae/datmin-final-projek",
     },
   ]
 
